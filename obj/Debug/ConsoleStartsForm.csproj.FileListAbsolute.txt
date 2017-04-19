@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\ConsoleStartsForm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\ConsoleStartsForm.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\ConsoleStartsForm.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\obj\Debug\ConsoleStartsForm.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\obj\Debug\ConsoleStartsForm.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\obj\Debug\ConsoleStartsForm.Main.resources
+c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\obj\Debug\ConsoleStartsForm.csproj.GenerateResource.Cache
