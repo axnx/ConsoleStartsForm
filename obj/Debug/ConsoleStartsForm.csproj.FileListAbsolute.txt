@@ -9,6 +9,5 @@ c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleSta
 c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\NLog - Kopieren.config.xml
 c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\NLog.dll
 c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\NLog.xml
-c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\obj\Debug\ConsoleStartsForm.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\NLog.Windows.Forms.dll
 c:\users\user\documents\visual studio 2015\Projects\ConsoleStartsForm\ConsoleStartsForm\bin\Debug\NLog.Windows.Forms.xml

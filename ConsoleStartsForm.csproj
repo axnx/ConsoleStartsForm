@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Content Include="Info\Info.txt" />
     <Content Include="NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

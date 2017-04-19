@@ -1,0 +1,3 @@
+﻿cmd
+Program.exe <parameter>
+output directly in console, form will not be started

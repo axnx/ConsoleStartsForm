@@ -71,5 +71,10 @@ namespace ConsoleStartsForm
             logger.Error("Hello - Error"); //Will log
             logger.Fatal("Hello - Fatal"); //Will log
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FreeConsole();
+        }
     }
 }
