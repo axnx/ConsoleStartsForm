@@ -71,7 +71,7 @@
             // 
             this.button4.Location = new System.Drawing.Point(163, 72);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(128, 23);
+            this.button4.Size = new System.Drawing.Size(182, 23);
             this.button4.TabIndex = 3;
             this.button4.Text = "show";
             this.button4.UseVisualStyleBackColor = true;

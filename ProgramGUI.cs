@@ -98,6 +98,9 @@ namespace ConsoleStartsForm
                 else
                 {
 
+                    if (args[0] == "console")
+                    {
+
                     // command line given, display console
                     //if (!NativeMethods.AttachConsole(-1))
                     //{
@@ -130,7 +133,6 @@ namespace ConsoleStartsForm
                     {
                         var hwnd = process.MainWindowHandle;
                         NativeMethods.PostMessage(hwnd, NativeMethods.WM_KEYDOWN, NativeMethods.VK_RETURN, 0);
-                       
                     }
                 }
 
@@ -146,7 +148,7 @@ namespace ConsoleStartsForm
 
             }
 
-                
+            }
 
         }
         
